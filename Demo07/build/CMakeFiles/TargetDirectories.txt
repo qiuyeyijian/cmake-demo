@@ -1,3 +1,0 @@
-D:/Workspace/Temp/cmake-demo/Demo07/build/CMakeFiles/Demo07.dir
-D:/Workspace/Temp/cmake-demo/Demo07/build/CMakeFiles/ALL_BUILD.dir
-D:/Workspace/Temp/cmake-demo/Demo07/build/CMakeFiles/ZERO_CHECK.dir

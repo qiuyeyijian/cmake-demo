@@ -1,2 +1,0 @@
-D:\Tools\MinGw64\bin\ar.exe qc liblog.a CMakeFiles/log.dir/log.cpp.obj
-D:\Tools\MinGw64\bin\ranlib.exe liblog.a
