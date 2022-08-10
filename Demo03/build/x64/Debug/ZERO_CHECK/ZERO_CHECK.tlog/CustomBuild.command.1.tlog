@@ -1,0 +1,10 @@
+^D:\WORKSPACE\TEMP\CMAKE-DEMO\DEMO03\BUILD\CMAKEFILES\AB443195C8456D752CFC0618A60BD592\GENERATE.STAMP.RULE
+setlocal
+D:\Software\Miniconda3\Library\bin\cmake.exe -SD:/Workspace/Temp/cmake-demo/Demo03 -BD:/Workspace/Temp/cmake-demo/Demo03/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Workspace/Temp/cmake-demo/Demo03/build/Demo03.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

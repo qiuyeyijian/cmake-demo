@@ -1,0 +1,4 @@
+D:/Workspace/Temp/cmake-demo/Demo05/bin/Demo05.exe
+D:/Workspace/Temp/cmake-demo/Demo05/bin/config.h
+D:/Workspace/Temp/cmake-demo/Demo05/bin/liblog.a
+D:/Workspace/Temp/cmake-demo/Demo05/include/log.h
